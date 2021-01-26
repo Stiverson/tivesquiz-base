@@ -5,6 +5,7 @@ import QuizLogo from '../src/components/QuizLogo';
 import QuizBackground from '../src/components/QuizBackground';
 import Footer from '../src/components/Footer';
 import GitHubCorner from '../src/components/GitHubCorner';
+import QuizHead from '../src/components/QuizHead';
 
 
 
